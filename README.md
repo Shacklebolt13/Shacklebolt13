@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Intern at Calsoft Inc.<br>🌱 I’m currently learning Virtualization<br>⚡ Fun fact I always enjoy a technical convo, start one and you won't hear the end of it.
+🔭 I’m currently working as an Intern at Calsoft Inc.<br>🌱 I’m currently learning Virtualization<br>⚡ Fun fact: I always enjoy a technical convo, start one and you won't hear the end of it.
 
 
 ## 🌐 Socials:
